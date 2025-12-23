@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'namadataset_raw/**' # Hanya jalan jika ada perubahan di folder data mentah
+      - 'rakhadataset_raw/**' # Hanya jalan jika ada perubahan di folder data mentah
 
 jobs:
   build:
