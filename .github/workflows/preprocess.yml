@@ -30,7 +30,7 @@ jobs:
 
     # 4. Menjalankan skrip automasi kamu
     - name: Run preprocessing script
-      run: python preprocessing/automate_Nama-siswa.py
+      run: python preprocessing/automate_Rakha-siswa.py
 
     # 5. Menyimpan kembali hasil preprocessing ke GitHub
     - name: Commit and push changes
